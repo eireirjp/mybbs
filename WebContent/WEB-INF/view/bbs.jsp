@@ -17,7 +17,7 @@
 				<p>メッセージの投稿</p>
 				<form action="" method="post">
 					<div class="form-group">
-						<label for="user">名前：</label> <input type="text" name="user"
+						<label for="user">お名前：</label> <input type="text" name="user"
 							id="user" class="form-control">
 					</div>
 					<div class="form-group">
